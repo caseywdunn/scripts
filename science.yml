@@ -1,0 +1,4 @@
+name: science
+dependencies:
+  - scipy
+  - biopython
